@@ -6,7 +6,7 @@
 ### Redes Sociais
 
 <div>
-  <a href="https://linkedin.com/https://in/enzo-melo-bb9444276/">
+  <a href="https://linkedin.com/https://www.linkedin.com/in/enzo-melo-bb9444276/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://wa.me/5584999457091">
